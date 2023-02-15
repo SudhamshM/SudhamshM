@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning **Android App Development, Python, Node.js, Express, Web Application Development**
+- 🌱 I’m currently learning **Android App Development, Java, Python, Node.js, Express.js, Web Application Development**
 
 - 📫 How to reach me **sudhamshmondrati@gmail.com**
 
